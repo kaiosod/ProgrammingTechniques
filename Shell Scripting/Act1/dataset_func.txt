@@ -1,0 +1,11 @@
+Marketing:João Costa:Rua D, 4500.00
+Vendas:Ana Souza:Rua B, 3200.00
+TI:Luiz Santos:Rua C, 6000.00
+Marketing:Pedro Oliveira:Rua D, 5200.00
+RH:Julia Vieira:Rua E, 4800.00
+Vendas:Marcos Santos:Rua F, 2800.00
+TI:Renata Alves:Rua G, 6200.00
+RH:Lucas Almeida:Rua H, 5100.00
+Marketing:Sara Santos:Rua I, 4900.00
+Vendas:Marcela Silva:Rua J, 3100.00
+kaiosod - Wed May  3 21:49:32 -03 2023

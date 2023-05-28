@@ -1,0 +1,12 @@
+49:32 -03 2023
+Ana Souza:Rua B, 3200.00
+João Costa:Rua D, 4500.00
+Julia Vieira:Rua E, 4800.00
+Lucas Almeida:Rua H, 5100.00
+Luiz Santos:Rua C, 6000.00
+Marcela Silva:Rua J, 3100.00
+Marcos Santos:Rua F, 2800.00
+Pedro Oliveira:Rua D, 5200.00
+Renata Alves:Rua G, 6200.00
+Sara Santos:Rua I, 4900.00
+kaiosod - Wed May  3 21:51:39 -03 2023
